@@ -1,0 +1,1 @@
+const delet = document.getElementById('div');
